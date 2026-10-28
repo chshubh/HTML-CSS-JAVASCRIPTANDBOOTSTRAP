@@ -1,0 +1,14 @@
+.classname{
+    position: relative;
+    display: flex;
+    display: block;
+    display: inline;
+    display: inline-block;
+    visibility: hidden;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    color: red;
+    border: 1px solid black;
+    border: none;
+}
